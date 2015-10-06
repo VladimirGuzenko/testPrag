@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444136820 source:f:\developer\codecups\test_prag\main.c
+	<stdio.h>
+	<stdlib.h>
+
